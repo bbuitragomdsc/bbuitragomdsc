@@ -20,11 +20,12 @@ Actualmente me enfoco en diseñar pipelines robustos, optimizar modelos de infor
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scala,azure,git,github" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Databricks_Logo.png" alt="Databricks" width="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-apache-spark-a-unified-analytics-engine-for-large-scale-data-processing-logo-shadow-tal-revivo.png" alt="Spark" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,scala,azure,git,github" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" alt="Power BI" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Databricks_Logo.png" alt="Databricks" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="40"/>
 </p>
+
 
 
 ---
@@ -38,9 +39,10 @@ Actualmente me enfoco en diseñar pipelines robustos, optimizar modelos de infor
 
 ---
 
-## 🔍 Actividad reciente
+## 📈 Actividad reciente
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bbuitragomdsc&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bbuitragomdsc&theme=tokyo-night)](https://github.com/bbuitragomdsc)
+
 
 ---
 
@@ -56,7 +58,8 @@ Actualmente me enfoco en diseñar pipelines robustos, optimizar modelos de infor
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pon-tu-linkedin-aqui](https://www.linkedin.com/in/bryan-buitrago-monroy-data-science/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Buitrago-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-buitrago-monroy-data-science/)
+
 
 ---
 
