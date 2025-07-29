@@ -21,8 +21,8 @@ Actualmente me enfoco en diseñar pipelines robustos, optimizar modelos de infor
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,scala,azure,git,github" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" alt="Power BI" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Databricks_Logo.png" alt="Databricks" height="40"/>
+  <img src="https://raw.githubusercontent.com/krishaayjois/logos/main/powerbi.svg" alt="Power BI" height="40"/>
+  <img src="https://raw.githubusercontent.com/databricks/branding-guide/main/databricks-logo-horizontal-black.png" alt="Databricks" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="40"/>
 </p>
 
