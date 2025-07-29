@@ -20,8 +20,12 @@ Actualmente me enfoco en diseñar pipelines robustos, optimizar modelos de infor
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scala,sql,spark,azure,databricks,powerbi,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,scala,azure,git,github" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Databricks_Logo.png" alt="Databricks" width="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-apache-spark-a-unified-analytics-engine-for-large-scale-data-processing-logo-shadow-tal-revivo.png" alt="Spark" width="40"/>
 </p>
+
 
 ---
 
